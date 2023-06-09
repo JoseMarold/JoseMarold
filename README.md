@@ -1,4 +1,4 @@
-<h1 align="left">Hello world! I'm José Mario Marroquín 👾</h1>
+<h1 align="left">Hello world! 👋 I'm José Mario Marroquín 🚀</h1>
 <img align="right" src="https://media.giphy.com/media/AO5qaphTxRnyw/giphy.gif" width="300" /> Software engineering student from Guatemala, I like to understand how all the technology around me works and contribute to the future, developing complex and exciting projects 💻. 
 
 <!--
