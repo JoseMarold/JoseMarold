@@ -16,12 +16,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" alt="SQLServer" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" alt="SQLServer" width="40"        height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
-   
   </div>
 </div>
 
+---
+<div align="left">
+  <h3> ⚙ GitHub stats: ⚙ </h3>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=JoseMarold&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490)](https://git.io/streak-    stats)
+</div>
 <!--
 **JoseMarold/JoseMarold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
