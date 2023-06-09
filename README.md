@@ -1,7 +1,7 @@
 <h1 align="left">Hello world! 👋 I'm José Mario Marroquín 🚀</h1>
-<hr color="blue">
+<hr style="color:blue;">
 <img align="right" src="https://media.giphy.com/media/q8ld8Sk7WWyY0/giphy.gif" width="200" /> Software engineering student from Guatemala, I like to understand how all the technology around me works and contribute to the future, developing complex and exciting projects 💻. 
-<hr color="blue">
+<hr style="color:blue;">
 <div align="left">
   <h3>Tools and languages: 🛠 👨🏻‍💻 </h3>
   <div>
