@@ -4,7 +4,7 @@
 <div align="left">
   <h3>Tools and languages: 🛠 👨🏻‍💻 </h3>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"> 
   </div>
 </div>
 
