@@ -25,7 +25,7 @@
 
 ### ⚙ GitHub stats: ⚙ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoseMarold&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarold&show_icons=true&theme=merko)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/JoseMarold/github-readme-stats)
 
 <!--
 **JoseMarold/JoseMarold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
