@@ -1,5 +1,5 @@
 <div id="header_image" align="center">
-    <img https://media.giphy.com/media/AO5qaphTxRnyw/giphygif/ width="200" />
+    <img src="https://media.giphy.com/media/AO5qaphTxRnyw/giphygif/" width="200" />
     <h1 align="center">Hello world! I'm José Mario Marroquín 👾</h1>
     <h3 align="center">Software engineering student from Guatemala,
         I like to understand how all the technology around me works 
