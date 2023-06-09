@@ -9,8 +9,10 @@
   <h3> 🛠 Tools and languages: 🛠</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Csharp" alt="Csharp" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Csharp" alt="Csharp" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Csharp" alt="Csharp" width="40" height="40">&nbsp;
+    
     
   </div>
 </div>
