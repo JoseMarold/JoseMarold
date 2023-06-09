@@ -26,7 +26,7 @@
 ### ⚙ GitHub stats: ⚙ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoseMarold&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarold)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarold&show_icons=true&theme=highcontrast)
 
 
 <!--
