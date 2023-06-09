@@ -1,10 +1,8 @@
-<div id="header_image" align="center">
-    <img src="https://media.giphy.com/media/AO5qaphTxRnyw/giphy.gif" width="200" />
-    <h1 align="center">Hello world! I'm José Mario Marroquín 👾</h1>
-    <h3 align="center">Software engineering student from Guatemala,
-        I like to understand how all the technology around me works 
-        and contribute to the future, developing complex and exciting projects 💻. </h3>
-</div>  
+<h1 align="left">Hello world! I'm José Mario Marroquín 👾</h1>
+<h3 align="left">Software engineering student from Guatemala,
+    I like to understand how all the technology around me works 
+    and contribute to the future, developing complex and exciting projects 💻. </h3>
+<img align="right" src="https://media.giphy.com/media/AO5qaphTxRnyw/giphy.gif" width="200" />
 
 <!--
 **JoseMarold/JoseMarold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
